@@ -12,22 +12,22 @@ function Features() {
             {
               title: 'Next day as standard',
               desc: 'Order before 3pm and get your order the next day as standard.',
-              src:'/delivery.png',
+              src:'/delivery (1).png',
             },
             {
               title: 'Made by true artisans',
               desc: 'Handmade crafted goods made with real passion and craftsmanship.',
-              src:'/check.png',
+              src:'/check (1).png',
             },
             {
               title: 'Unbeatable prices',
               desc: 'For our materials and quality you won $apos t find better prices anywhere.',
-              src:'/purchase.png',
+              src:'/purchase (1).png',
             },
             {
               title: 'Recycled packaging',
               desc: 'We use 100% recycled packaging to ensure our footprint is manageable.',
-              src:'/spot.png',
+              src:'/Spot.png',
             },
 
 
